@@ -1,0 +1,8 @@
+packages
+========
+
+gstreamer0.10-plugins-base
+gstreamer0.10-plugins-good
+gstreamer0.10-plugins-bad
+gstreamer0.10-plugins-ugly
+python-gst0.10
